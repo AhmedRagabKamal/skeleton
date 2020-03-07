@@ -6,5 +6,10 @@
   "printWidth": 120,
   "bracketSpacing": true,
   "endOfLine": "crlf",
-  "arrowParens": "always"
+  "arrowParens": "always",
+  "vetur.format.defaultFormatterOptions": {
+    "prettier": {
+      "singleQuote": true
+    }
+  }
 }
